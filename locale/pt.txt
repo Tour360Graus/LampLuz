@@ -1,0 +1,73 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_AA3E6ECA_A52A_8BB7_41E1_5316182CC09F.source = http://wa.me/5548991808203
+LinkBehaviour_80DC5ED3_A75A_8B4B_41E4_75295773C60F.source = http://wa.me/5548991808203
+LinkBehaviour_80DF7EDB_A75A_8B7B_41D0_480374C6E8AD.source = https://lampluziluminacao.com.br
+LinkBehaviour_ABB349BE_A52E_89CC_41D6_BE5F54CFD924.source = https://lampluziluminacao.com.br
+LinkBehaviour_80DD4EDD_A75A_8B7F_41D3_0ED416E232CB.source = https://wa.me/5548991808203
+LinkBehaviour_BB998E66_A73B_8B4D_41DC_2B2DC63F000F.source = https://wa.me/5548991808203
+LinkBehaviour_A8E28FD3_A52A_8954_41D6_2CC10167B2EE.source = https://www.facebook.com/lampluz
+LinkBehaviour_80DDFED5_A75A_8B4F_41DB_BF1E1A6D395C.source = https://www.facebook.com/lampluz
+LinkBehaviour_80E14ED2_A75A_8B45_41D2_4659AC17E049.source = https://www.google.com/maps/place/LampLuz+Ilumina%C3%A7%C3%A3o+-+Loja+Estreito/@-27.5920623,-48.5769327,17z/data=!3m1!4b1!4m5!3m4!1s0x9527378dcc820b53:0x5c448a64a5b9ca1e!8m2!3d-27.5920671!4d-48.574744
+LinkBehaviour_ABF8EB0B_A525_8AB5_41C8_77A3D1FB47C1.source = https://www.google.com/maps/place/LampLuz+Ilumina%C3%A7%C3%A3o+-+Loja+Estreito/@-27.5920623,-48.5769327,17z/data=!3m1!4b1!4m5!3m4!1s0x9527378dcc820b53:0x5c448a64a5b9ca1e!8m2!3d-27.5920671!4d-48.574744
+LinkBehaviour_AB952696_A52B_FBDC_41D5_136CE55FB815.source = https://www.instagram.com/lampluzloja
+LinkBehaviour_80DE4ED4_A75A_8B4D_41C7_9B09A3423E5F.source = https://www.instagram.com/lampluzloja
+
+## Media
+
+### Audio
+audio_8724BF19_A765_8AC4_41C3_B9FF56414DFA.path = null
+audiores_861B4C6C_A77A_8F5C_41C9_F0AC12584781.mp3Url = media/audio_8724BF19_A765_8AC4_41C3_B9FF56414DFA_pt.mp3
+audiores_861B4C6C_A77A_8F5C_41C9_F0AC12584781.oggUrl = media/audio_8724BF19_A765_8AC4_41C3_B9FF56414DFA_pt.ogg
+
+### Title
+panorama_80F08169_8CD0_28E4_41AA_06EF6CD432E2.label = 1 final
+panorama_86E823BC_8CD0_285C_41DD_79A4647AC33C.label = 10 final
+panorama_9DA4DCFC_8D73_F9DD_41DE_837D7C1015C4.label = 2.1 final
+panorama_82738B1A_8D70_3825_40EC_863EE2895700.label = 3 final
+panorama_83EADBDE_8D50_7FDC_41D4_410EA7B56875.label = 4 final
+panorama_82607029_8D70_2867_41D4_63EE6A52318B.label = 5.1 final
+panorama_9D187DEB_8D50_7BFB_41D7_0A5DF1127D23.label = 6.1 final
+panorama_86E88D97_8CD0_782C_41D9_8194EE06D22F.label = 7.1 final
+panorama_829D3A26_8D50_386C_41D1_71103AF44397.label = 8.1 final
+panorama_82616EB3_8D50_186B_41D9_1702608FE549.label = 9.1 final
+panorama_9D28CA80_8D50_F825_41E1_65E4BC8C7044.label = aerea teste-DeNoiseAI-standard final
+
+## Skin
+
+### Button
+Button_B015C96F_A7EE_895C_41BE_E04DF84B563D.label = SAIBA MAIS
+Button_B015C96F_A7EE_895C_41BE_E04DF84B563D_mobile.label = SAIBA MAIS
+
+### Image
+Image_AB69BF29_A53A_8AF3_41E2_868851ECDF70.path = null
+Image_AB69BF29_A53A_8AF3_41E2_868851ECDF70_mobile.path = null
+Image_A9985585_A4E6_99A4_41E0_101CDA048801.path = null
+Image_A9985585_A4E6_99A4_41E0_101CDA048801_mobile.path = null
+Image_AA0EA024_A4DA_B6EB_41E4_7E4C9542D171.path = null
+Image_AA0EA024_A4DA_B6EB_41E4_7E4C9542D171_mobile.path = null
+Image_AAD7ADD3_A4DD_89AD_41E2_ADEB45C3FCE2_mobile.path = null
+Image_AAD7ADD3_A4DD_89AD_41E2_ADEB45C3FCE2.path = null
+Image_A8922E9B_A53A_8BD6_41DB_64904BEBF6F5_mobile.path = null
+Image_A8922E9B_A53A_8BD6_41DB_64904BEBF6F5.path = null
+Image_A8922E9B_A53A_8BD6_41DB_64904BEBF6F5_mobile.url = skin/Image_A8922E9B_A53A_8BD6_41DB_64904BEBF6F5_mobile_pt.png
+Image_A8922E9B_A53A_8BD6_41DB_64904BEBF6F5.url = skin/Image_A8922E9B_A53A_8BD6_41DB_64904BEBF6F5_pt.png
+Image_A9985585_A4E6_99A4_41E0_101CDA048801_mobile.url = skin/Image_A9985585_A4E6_99A4_41E0_101CDA048801_mobile_pt.png
+Image_A9985585_A4E6_99A4_41E0_101CDA048801.url = skin/Image_A9985585_A4E6_99A4_41E0_101CDA048801_pt.png
+Image_AA0EA024_A4DA_B6EB_41E4_7E4C9542D171_mobile.url = skin/Image_AA0EA024_A4DA_B6EB_41E4_7E4C9542D171_mobile_pt.png
+Image_AA0EA024_A4DA_B6EB_41E4_7E4C9542D171.url = skin/Image_AA0EA024_A4DA_B6EB_41E4_7E4C9542D171_pt.png
+Image_AAD7ADD3_A4DD_89AD_41E2_ADEB45C3FCE2_mobile.url = skin/Image_AAD7ADD3_A4DD_89AD_41E2_ADEB45C3FCE2_mobile_pt.png
+Image_AAD7ADD3_A4DD_89AD_41E2_ADEB45C3FCE2.url = skin/Image_AAD7ADD3_A4DD_89AD_41E2_ADEB45C3FCE2_pt.png
+Image_AB69BF29_A53A_8AF3_41E2_868851ECDF70_mobile.url = skin/Image_AB69BF29_A53A_8AF3_41E2_868851ECDF70_mobile_pt.png
+Image_AB69BF29_A53A_8AF3_41E2_868851ECDF70.url = skin/Image_AB69BF29_A53A_8AF3_41E2_868851ECDF70_pt.png
+
+## Tour
+
+### Description
+tour.description = Tour 360 graus
+
+### Title
+tour.name = LampLuz Iluminação
