@@ -5,16 +5,18 @@
 ### URL
 LinkBehaviour_AA3E6ECA_A52A_8BB7_41E1_5316182CC09F.source = http://wa.me/5548991808203
 LinkBehaviour_80DC5ED3_A75A_8B4B_41E4_75295773C60F.source = http://wa.me/5548991808203
+LinkBehaviour_9BACBC06_AB27_8F31_41B6_366B8C15E68F.source = https://g.page/r/CR7KuaVkikRcEAg/review
+LinkBehaviour_9ABD1489_AB2B_9F30_41C6_699D6F190200.source = https://g.page/r/CR7KuaVkikRcEAg/review
 LinkBehaviour_80DF7EDB_A75A_8B7B_41D0_480374C6E8AD.source = https://lampluziluminacao.com.br
 LinkBehaviour_ABB349BE_A52E_89CC_41D6_BE5F54CFD924.source = https://lampluziluminacao.com.br
-LinkBehaviour_80DD4EDD_A75A_8B7F_41D3_0ED416E232CB.source = https://wa.me/5548991808203
 LinkBehaviour_BB998E66_A73B_8B4D_41DC_2B2DC63F000F.source = https://wa.me/5548991808203
-LinkBehaviour_A8E28FD3_A52A_8954_41D6_2CC10167B2EE.source = https://www.facebook.com/lampluz
+LinkBehaviour_80DD4EDD_A75A_8B7F_41D3_0ED416E232CB.source = https://wa.me/5548991808203
 LinkBehaviour_80DDFED5_A75A_8B4F_41DB_BF1E1A6D395C.source = https://www.facebook.com/lampluz
-LinkBehaviour_80E14ED2_A75A_8B45_41D2_4659AC17E049.source = https://www.google.com/maps/place/LampLuz+Ilumina%C3%A7%C3%A3o+-+Loja+Estreito/@-27.5920623,-48.5769327,17z/data=!3m1!4b1!4m5!3m4!1s0x9527378dcc820b53:0x5c448a64a5b9ca1e!8m2!3d-27.5920671!4d-48.574744
+LinkBehaviour_A8E28FD3_A52A_8954_41D6_2CC10167B2EE.source = https://www.facebook.com/lampluz
 LinkBehaviour_ABF8EB0B_A525_8AB5_41C8_77A3D1FB47C1.source = https://www.google.com/maps/place/LampLuz+Ilumina%C3%A7%C3%A3o+-+Loja+Estreito/@-27.5920623,-48.5769327,17z/data=!3m1!4b1!4m5!3m4!1s0x9527378dcc820b53:0x5c448a64a5b9ca1e!8m2!3d-27.5920671!4d-48.574744
-LinkBehaviour_AB952696_A52B_FBDC_41D5_136CE55FB815.source = https://www.instagram.com/lampluzloja
+LinkBehaviour_80E14ED2_A75A_8B45_41D2_4659AC17E049.source = https://www.google.com/maps/place/LampLuz+Ilumina%C3%A7%C3%A3o+-+Loja+Estreito/@-27.5920623,-48.5769327,17z/data=!3m1!4b1!4m5!3m4!1s0x9527378dcc820b53:0x5c448a64a5b9ca1e!8m2!3d-27.5920671!4d-48.574744
 LinkBehaviour_80DE4ED4_A75A_8B4D_41C7_9B09A3423E5F.source = https://www.instagram.com/lampluzloja
+LinkBehaviour_AB952696_A52B_FBDC_41D5_136CE55FB815.source = https://www.instagram.com/lampluzloja
 
 ## Media
 
@@ -45,8 +47,8 @@ Button_B015C96F_A7EE_895C_41BE_E04DF84B563D_mobile.label = SAIBA MAIS
 ### Image
 Image_AB69BF29_A53A_8AF3_41E2_868851ECDF70.path = null
 Image_AB69BF29_A53A_8AF3_41E2_868851ECDF70_mobile.path = null
-Image_A9985585_A4E6_99A4_41E0_101CDA048801.path = null
 Image_A9985585_A4E6_99A4_41E0_101CDA048801_mobile.path = null
+Image_A9985585_A4E6_99A4_41E0_101CDA048801.path = null
 Image_AA0EA024_A4DA_B6EB_41E4_7E4C9542D171.path = null
 Image_AA0EA024_A4DA_B6EB_41E4_7E4C9542D171_mobile.path = null
 Image_AAD7ADD3_A4DD_89AD_41E2_ADEB45C3FCE2_mobile.path = null
